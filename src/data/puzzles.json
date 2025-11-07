@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "difficulty": "Beginner",
+    "fen": "8/8/8/8/8/8/PPPPP3/RNBQKBNR w KQkq - 0 1",
+    "solution": ["e2e4"],
+    "title": "White to move and open the game"
+  },
+  {
+    "id": 2,
+    "difficulty": "Beginner",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+    "solution": ["e7e5"],
+    "title": "Black to respond to e4"
+  },
+  {
+    "id": 3,
+    "difficulty": "Intermediate",
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4",
+    "solution": ["f1b5"],
+    "title": "White to play Ruy Lopez"
+  },
+  {
+    "id": 4,
+    "difficulty": "Intermediate",
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4",
+    "solution": ["d2d4"],
+    "title": "White to play Scotch Game"
+  },
+  {
+    "id": 5,
+    "difficulty": "Advanced",
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4",
+    "solution": ["f1c4"],
+    "title": "White to play Italian Game"
+  },
+  {
+    "id": 6,
+    "difficulty": "Advanced",
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4",
+    "solution": ["d2d3"],
+    "title": "White to play Philidor Defense"
+  },
+  {
+    "id": 7,
+    "difficulty": "Master",
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4",
+    "solution": ["f1e2"],
+    "title": "White to play Giuoco Piano"
+  },
+  {
+    "id": 8,
+    "difficulty": "Master",
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4",
+    "solution": ["d1e2"],
+    "title": "White to play Queen's Gambit"
+  }
+]
